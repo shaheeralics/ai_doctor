@@ -1,16 +1,25 @@
-# myapp
+# Login Screen UI
 
-A new Flutter project.
+This project is all about designing a Login Screen with a modern UI using the latest features offered by Flutter. In a total of three parts we will create a unique background using Glassmorphism, design appealing input fields for the best user experience and include eye-caching animations for a smooth feeling.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+☕️ Creating these videos requires a lot of time and effort. If you enjoy my content you can buy me a coffee so I can produce more videos during the night:
 
-A few resources to get you started if this is your first Flutter project:
+[**Support DebugErrorX**](https://www.buymeacoffee.com/debugerrorx)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Thank you!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## [Watch it on YouTube](https://www.youtube.com/playlist?list=PLz3ulyTHbIEcUKeDqTAMPDsNu3VERlwm9)
+
+<br>
+
+![Login Screen UI](thumbnail.png)
+
+---
+
+You want more Flutter content? Check out my YouTube channel [**DebugErrorX**](https://www.youtube.com/channel/UCtY6vtwLqivmnquY1fg-BkQ)
+- [Recent Flutter Videos](https://www.youtube.com/channel/UCtY6vtwLqivmnquY1fg-BkQ/videos)
+- [Subscribe to DebugErrorX](https://www.youtube.com/channel/UCtY6vtwLqivmnquY1fg-BkQ?sub_confirmation=1)
